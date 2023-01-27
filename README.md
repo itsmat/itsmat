@@ -3,7 +3,10 @@
 </p>
 
 <h2 align="center">
-<img src="https://discord.c99.nl/widget/theme-1/452822590583603210.png">
+<img src=https://lanyard-profile-readme.vercel.app/api/452822590583603210?theme=light&bg=151555&animated=false&hideDiscrim=false&borderRadius=28px&idleMessage=Probably%20doing%20something%20else">
+
+
+<!---<img src="https://discord.c99.nl/widget/theme-1/452822590583603210.png">--->
 
 <!---
 itsmat/itsmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
