@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMat&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api?username=itsmat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151555">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsmat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321">
 </p>
 
 <div align="center">  
